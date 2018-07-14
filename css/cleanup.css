@@ -1,1 +1,31 @@
 /* write your override styles here */
+#wall .tag-1 {
+  background-color: green;
+}
+#wall #tag-2 {
+  background-color: red;
+  z-index:8;
+  
+}
+
+#wall #tag-3 .slick {
+  line-height: 0;
+  padding: 250px;
+}
+
+.parent #tag-4{
+  border-width: 125px;
+}
+
+.slick {
+z-index: 8;
+background-color: red;
+display: none;
+margin: 900px;
+  
+}
+
+
+.parent #tag-6 {
+  padding :600px;
+}
