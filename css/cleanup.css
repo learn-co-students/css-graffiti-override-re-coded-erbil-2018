@@ -15,7 +15,8 @@ body {
   box-shadow: 15px 15px 47px lime, -15px -15px 47px aqua;
   border-width: 15px;
   border-bottom-width:  60px ;
-  border-style: solid white;
+  border-style: solid ;
+  border-color: white;
 }
 
 .tag-1, #tag-2, #tag-3, #tag-4, #tag-5, #tag-6, #tag-7 {
